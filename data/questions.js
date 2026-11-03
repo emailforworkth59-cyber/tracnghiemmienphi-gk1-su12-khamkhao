@@ -225,7 +225,7 @@ window.questions = [
       "C. Đảng Cộng sản Đông Dương trở thành Đảng cầm quyền.",
       "D. Cổ vũ mạnh mẽ các nước thuộc địa đấu tranh giải phóng dân tộc.",
     ],
-    answer: 0,
+    answer: 1,
   },
   {
     type: "mcq",
@@ -437,7 +437,7 @@ window.questions = [
       "c. Bản Quân lệnh số 1 do đồng chí Trần Huy Liệu soạn thảo và kêu gọi toàn dân thực hiện.",
       "d. Với việc ban bố bản Quân lệnh số 1, Tổng khởi nghĩa giành chính quyền chính thức được phát động trên cả nước.",
     ],
-    answer: [0, 3],
+    answer: [0, 2,3],
   },
   {
     type: "truefalse",
@@ -459,6 +459,6 @@ window.questions = [
       "c. Các quốc gia thành viên đã có những đóng góp quan trọng trong tiến trình hình thành và phát triển của Cộng đồng ASEAN.",
       "d. Trong quá trình tồn tại và phát triển Cộng đồng ASEAN đã từng bước vượt qua mọi khó khăn, thử thách từ khu vực và thế giới.",
     ],
-    answer: [0, 2, 3],
+    answer: [1,2],
   },
 ];
